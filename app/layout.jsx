@@ -6,6 +6,10 @@ export const metadata = {
   title: 'Grimwatch — The Grim Watchers of the Chain',
   description:
     'Grimwatch peers into the darkness of Solana. The grim watchers verify AI agents and seal the worthy. The void claims the rest.',
+  icons: {
+    icon: '/logo.png',
+    apple: '/logo.png',
+  },
 };
 
 export default function RootLayout({ children }) {
