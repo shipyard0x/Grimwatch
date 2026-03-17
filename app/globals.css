@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Base ───────────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0A0A0F;
+  color: #D4D0C8;
+  font-family: 'Cormorant Garamond', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* ── Custom Scrollbar ───────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.02);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(74, 222, 128, 0.15);
+  border-radius: 1px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(74, 222, 128, 0.3);
+}
+
+/* ── Font Utilities ──────────────────────────────────────────── */
+.font-mono {
+  font-family: 'IBM Plex Mono', monospace;
+}
+.font-inscription {
+  font-family: 'Cinzel', serif;
+}
+.font-manuscript {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+/* ── Keyframe Animations ────────────────────────────────────── */
+
+@keyframes fogDrift {
+  0% { transform: translateX(-100%); opacity: 0; }
+  30% { opacity: 0.04; }
+  70% { opacity: 0.04; }
+  100% { transform: translateX(100%); opacity: 0; }
+}
+
+@keyframes candleFlicker {
+  0%, 100% { opacity: 0.6; transform: scale(1); }
+  25% { opacity: 0.8; transform: scale(1.02); }
+  50% { opacity: 0.5; transform: scale(0.98); }
+  75% { opacity: 0.7; transform: scale(1.01); }
+}
+
+@keyframes runeGlow {
+  0%, 100% { text-shadow: 0 0 10px rgba(74,222,128,0.2); }
+  50% { text-shadow: 0 0 25px rgba(74,222,128,0.5), 0 0 50px rgba(74,222,128,0.15); }
+}
+
+@keyframes watchEye {
+  0%, 100% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.1); opacity: 1; }
+}
+
+@keyframes scanReveal {
+  0% { clip-path: inset(0 0 100% 0); }
+  100% { clip-path: inset(0 0 0% 0); }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeSlideUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(0.95); }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes revealScore {
+  from { stroke-dashoffset: 283; }
+  to { stroke-dashoffset: var(--target-offset); }
+}
+
+/* ── Animation Classes ──────────────────────────────────────── */
+.animate-candleFlicker { animation: candleFlicker 3s ease-in-out infinite; }
+.animate-runeGlow      { animation: runeGlow 2s ease-in-out infinite; }
+.animate-watchEye      { animation: watchEye 1.5s ease-in-out infinite; }
+.animate-fadeUp        { animation: fadeUp 0.4s ease-out forwards; }
+.animate-fadeSlideUp   { animation: fadeSlideUp 0.4s ease-out forwards; }
+.animate-spin          { animation: spin 1s linear infinite; }
+.animate-fogDrift      { animation: fogDrift 25s linear infinite; }
+
+/* ── Glow Effects ────────────────────────────────────────────── */
+.glow-spectral { box-shadow: 0 0 12px rgba(74, 222, 128, 0.3); }
+.glow-gold     { box-shadow: 0 0 12px rgba(212, 168, 67, 0.3); }
+.glow-blood    { box-shadow: 0 0 12px rgba(220, 38, 38, 0.3); }
+.text-glow-spectral { text-shadow: 0 0 10px rgba(74, 222, 128, 0.4); }
+
+/* ── Card Base ──────────────────────────────────────────────── */
+.card {
+  background: rgba(255, 255, 255, 0.01);
+  border: 1px solid rgba(255, 255, 255, 0.03);
+  border-radius: 2px;
+}
+
+/* ── Overlay ─────────────────────────────────────────────────── */
+.scan-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  background: rgba(10, 10, 15, 0.95);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: fadeUp 0.2s ease-out;
+}
+
+/* ── Code block ──────────────────────────────────────────────── */
+pre, code {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+pre {
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 2px;
+  padding: 16px;
+  overflow-x: auto;
+  font-size: 12px;
+  line-height: 1.6;
+  color: #D4D0C8;
+}
+
+/* ── Input styles ────────────────────────────────────────────── */
+input, textarea, select {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 2px;
+  color: #D4D0C8;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+input:focus, textarea:focus, select:focus {
+  border-color: rgba(74, 222, 128, 0.3);
+  box-shadow: 0 0 0 3px rgba(74, 222, 128, 0.06);
+}
+input::placeholder, textarea::placeholder {
+  color: rgba(255, 255, 255, 0.2);
+  font-style: italic;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+select option {
+  background: #0f0f18;
+  color: #D4D0C8;
+}
+
+/* ── Score Ring SVG ──────────────────────────────────────────── */
+.score-ring-circle {
+  transition: stroke-dashoffset 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ── Dark Vignette ───────────────────────────────────────────── */
+.vignette {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background: radial-gradient(ellipse at center, transparent 40%, rgba(0,0,0,0.6) 100%);
+  pointer-events: none;
+}

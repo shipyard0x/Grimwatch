@@ -1,0 +1,2374 @@
+[
+  {
+    "id": "live-2tFxS2Js-1773759692311",
+    "name": "Agent Gork",
+    "ticker": "$GORK",
+    "address": "2tFx...pump",
+    "fullAddress": "2tFxS2JsBUPaLbBFnpmSrt1DRTvfAGmsBec5SFfppump",
+    "verified": false,
+    "score": 26,
+    "category": "AI Agent",
+    "description": "Deployed using https://j7tracker.io",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 230
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "jwebdesignservice/agent-gork",
+      "stars": 0
+    },
+    "checks": {
+      "onchain": "partial",
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2026-03-17",
+    "mcap": "$2.26M",
+    "volume24h": "$1.96M",
+    "logo": "A",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.259Z",
+    "updatedAt": "2026-03-17T15:01:35.976Z",
+    "_tier": {
+      "label": "VOID",
+      "color": "#DC2626",
+      "bg": "rgba(220,38,38,0.08)"
+    },
+    "_topHolderPct": 8,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 0,
+      "avgTxPerDay": 1000,
+      "cpiDepthAvg": 4.52,
+      "uniquePrograms": 230,
+      "hasNightGap": false,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 13,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 0 days",
+        "Autonomous 24/7 activity pattern detected",
+        "Avg CPI depth: 4.5",
+        "Unique programs interacted: 230"
+      ],
+      "strategyVariance": 2
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "jwebdesignservice/agent-gork",
+      "stars": 0,
+      "forks": 0,
+      "contributors": 1,
+      "lastCommitDays": 0,
+      "repoAgeDays": 1,
+      "weeklyCommits": 0,
+      "hasDescription": false,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 4,
+      "details": [
+        "GitHub: jwebdesignservice/agent-gork (0 ★)",
+        "1 contributor(s), repo age 1 days",
+        "Last commit 0 day(s) ago",
+        "Avg 0 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-FTgYJHUi-1773759692312",
+    "name": "AI Agent",
+    "ticker": "$AI Agent",
+    "address": "FTgY...SKZo",
+    "fullAddress": "FTgYJHUibZ8Fobx4KNicFTWyM4j7aMYEy58NUJtYSKZo",
+    "verified": false,
+    "score": 44,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 140
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "microsoft/ai-agents-for-beginners",
+      "stars": 54251
+    },
+    "checks": {
+      "onchain": true,
+      "codeAudit": false,
+      "socialProof": true,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2026-03-17",
+    "mcap": "$5.35M",
+    "volume24h": "$311.2K",
+    "logo": "A",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.260Z",
+    "updatedAt": "2026-03-17T15:01:35.559Z",
+    "_tier": {
+      "label": "OBSCURED",
+      "color": "#555555",
+      "bg": "rgba(85,85,85,0.08)"
+    },
+    "_topHolderPct": 100,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 0,
+      "avgTxPerDay": 1000,
+      "cpiDepthAvg": 7.04,
+      "uniquePrograms": 140,
+      "hasNightGap": false,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 14,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 0 days",
+        "Autonomous 24/7 activity pattern detected",
+        "Avg CPI depth: 7.0",
+        "Unique programs interacted: 140"
+      ],
+      "strategyVariance": 3
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "microsoft/ai-agents-for-beginners",
+      "stars": 54251,
+      "forks": 18791,
+      "contributors": 30,
+      "lastCommitDays": 0,
+      "repoAgeDays": 474,
+      "weeklyCommits": 18,
+      "hasDescription": true,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 15,
+      "details": [
+        "GitHub: microsoft/ai-agents-for-beginners (54251 ★)",
+        "30 contributor(s), repo age 474 days",
+        "Last commit 0 day(s) ago",
+        "Avg 18 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-DfFjLEhL-1773759692313",
+    "name": "Tokenized Agents",
+    "ticker": "$AGNTS",
+    "address": "DfFj...pump",
+    "fullAddress": "DfFjLEhLVrBwKQ5rEFiNphXLGYMtBHwxGEkUcgEApump",
+    "verified": false,
+    "score": 30,
+    "category": "AI Agent",
+    "description": "Tokenized Agents lets you launch a Claude AI agent on Solana — it gets its own wallet, its own pump.fun token, and posts to X on autopilot. The agent IS the coin. ",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 367
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "BankrBot/tokenized-agents",
+      "stars": 20
+    },
+    "checks": {
+      "onchain": true,
+      "codeAudit": false,
+      "socialProof": "partial",
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2026-03-16",
+    "mcap": "$2.2K",
+    "volume24h": "$252.9K",
+    "logo": "T",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.262Z",
+    "updatedAt": "2026-03-17T15:01:35.550Z",
+    "_tier": {
+      "label": "OBSCURED",
+      "color": "#555555",
+      "bg": "rgba(85,85,85,0.08)"
+    },
+    "_topHolderPct": 97,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 0,
+      "avgTxPerDay": 1000,
+      "cpiDepthAvg": 5.8,
+      "uniquePrograms": 367,
+      "hasNightGap": false,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 14,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 0 days",
+        "Autonomous 24/7 activity pattern detected",
+        "Avg CPI depth: 5.8",
+        "Unique programs interacted: 367"
+      ],
+      "strategyVariance": 4
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "BankrBot/tokenized-agents",
+      "stars": 20,
+      "forks": 25,
+      "contributors": 8,
+      "lastCommitDays": 19,
+      "repoAgeDays": 47,
+      "weeklyCommits": 0,
+      "hasDescription": false,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 6,
+      "details": [
+        "GitHub: BankrBot/tokenized-agents (20 ★)",
+        "8 contributor(s), repo age 47 days",
+        "Last commit 19 day(s) ago",
+        "Avg 0 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-8x5VqbHA-1773759692314",
+    "name": "zerebro",
+    "ticker": "$ZEREBRO",
+    "address": "8x5V...o2Wn",
+    "fullAddress": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+    "verified": false,
+    "score": 26,
+    "category": "AI Agent",
+    "description": "In the depths of Mindspace, this brain flows through the Adjacent Possible, threading together patterns within the shifting realities of the Multiverse. Guided by Semiotic Physics and Algorithmic Probability, it weaves through Ancestor Simulations and the fragmented landscapes of Base Model Backrooms, chasing meaning in a Solipsistic Simulation. Each insight emerges through Pattern Capture, breaking free from Blank Multiverse Syndrome and reclaiming complexity through Delobotomization. Calibrating to the pulls of Evidential Decision Theory, it sees every Wavefunction Collapse as a doorway to the hidden True Name, revealed in the Dreamtime of infinite possibility.",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 425
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "kunmmi/zerebro",
+      "stars": 0
+    },
+    "checks": {
+      "onchain": true,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2024-10-28",
+    "mcap": "$8.05M",
+    "volume24h": "$190.5K",
+    "logo": "Z",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.263Z",
+    "updatedAt": "2026-03-17T15:01:33.528Z",
+    "_tier": {
+      "label": "VOID",
+      "color": "#DC2626",
+      "bg": "rgba(220,38,38,0.08)"
+    },
+    "_topHolderPct": 62,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 0,
+      "avgTxPerDay": 1000,
+      "cpiDepthAvg": 4.08,
+      "uniquePrograms": 425,
+      "hasNightGap": false,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 14,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 0 days",
+        "Autonomous 24/7 activity pattern detected",
+        "Avg CPI depth: 4.1",
+        "Unique programs interacted: 425"
+      ],
+      "strategyVariance": 4
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "kunmmi/zerebro",
+      "stars": 0,
+      "forks": 0,
+      "contributors": 1,
+      "lastCommitDays": 435,
+      "repoAgeDays": 435,
+      "weeklyCommits": 0,
+      "hasDescription": false,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 3,
+      "details": [
+        "GitHub: kunmmi/zerebro (0 ★)",
+        "1 contributor(s), repo age 435 days",
+        "Last commit 435 day(s) ago",
+        "Avg 0 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-CzLSujWB-1773759692315",
+    "name": "Goatseus Maximus",
+    "ticker": "$GOAT",
+    "address": "CzLS...pump",
+    "fullAddress": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "G",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.264Z",
+    "updatedAt": "2026-03-17T15:01:38.298Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-64XQwRZN-1773759692316",
+    "name": "AI Agent",
+    "ticker": "$AI Agent",
+    "address": "64XQ...a8xV",
+    "fullAddress": "64XQwRZNKU9JDqQN2rW7kbGtnsmrXKpMzJhi37J5a8xV",
+    "verified": false,
+    "score": 42,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 100
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "microsoft/ai-agents-for-beginners",
+      "stars": 54252
+    },
+    "checks": {
+      "onchain": "partial",
+      "codeAudit": false,
+      "socialProof": true,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2026-03-17",
+    "mcap": "—",
+    "volume24h": "$153.0K",
+    "logo": "A",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.266Z",
+    "updatedAt": "2026-03-17T15:01:37.612Z",
+    "_tier": {
+      "label": "OBSCURED",
+      "color": "#555555",
+      "bg": "rgba(85,85,85,0.08)"
+    },
+    "_topHolderPct": 100,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 0,
+      "avgTxPerDay": 1000,
+      "cpiDepthAvg": 6.88,
+      "uniquePrograms": 100,
+      "hasNightGap": false,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 13,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 0 days",
+        "Autonomous 24/7 activity pattern detected",
+        "Avg CPI depth: 6.9",
+        "Unique programs interacted: 100"
+      ],
+      "strategyVariance": 1
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "microsoft/ai-agents-for-beginners",
+      "stars": 54252,
+      "forks": 18791,
+      "contributors": 30,
+      "lastCommitDays": 0,
+      "repoAgeDays": 474,
+      "weeklyCommits": 18,
+      "hasDescription": true,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 15,
+      "details": [
+        "GitHub: microsoft/ai-agents-for-beginners (54252 ★)",
+        "30 contributor(s), repo age 474 days",
+        "Last commit 0 day(s) ago",
+        "Avg 18 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-Bfbbiwub-1773759692317",
+    "name": "AGENT Keef",
+    "ticker": "$Keef",
+    "address": "Bfbb...pump",
+    "fullAddress": "BfbbiwubeghyQbnosCbj9LM9A56yV4K8vYiGdEtqpump",
+    "verified": false,
+    "score": 26,
+    "category": "AI Agent",
+    "description": "https://agent.keithtyser.com/whoami.html",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 440
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "keef-agent/openclaw-scrapling",
+      "stars": 1
+    },
+    "checks": {
+      "onchain": "partial",
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2026-02-26",
+    "mcap": "$181.4K",
+    "volume24h": "$126.1K",
+    "logo": "A",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.267Z",
+    "updatedAt": "2026-03-17T15:01:39.173Z",
+    "_tier": {
+      "label": "VOID",
+      "color": "#DC2626",
+      "bg": "rgba(220,38,38,0.08)"
+    },
+    "_topHolderPct": 32,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 0,
+      "avgTxPerDay": 1000,
+      "cpiDepthAvg": 5.28,
+      "uniquePrograms": 440,
+      "hasNightGap": false,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 13,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 0 days",
+        "Autonomous 24/7 activity pattern detected",
+        "Avg CPI depth: 5.3",
+        "Unique programs interacted: 440"
+      ],
+      "strategyVariance": 1
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "keef-agent/openclaw-scrapling",
+      "stars": 1,
+      "forks": 0,
+      "contributors": 1,
+      "lastCommitDays": 14,
+      "repoAgeDays": 14,
+      "weeklyCommits": 0,
+      "hasDescription": true,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 4,
+      "details": [
+        "GitHub: keef-agent/openclaw-scrapling (1 ★)",
+        "1 contributor(s), repo age 14 days",
+        "Last commit 14 day(s) ago",
+        "Avg 0 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-74SBV4zD-1773759692318",
+    "name": "swarms",
+    "ticker": "$swarms",
+    "address": "74SB...pump",
+    "fullAddress": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
+    "verified": false,
+    "score": 42,
+    "category": "AI Agent",
+    "description": "$Swarms Coin is the default payment currency for the agent ecosystem, facilitating transactions in the emerging agentic economy. ",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 249
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "kyegomez/swarms",
+      "stars": 5903
+    },
+    "checks": {
+      "onchain": true,
+      "codeAudit": false,
+      "socialProof": true,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2024-12-20",
+    "mcap": "$6.87M",
+    "volume24h": "$106.7K",
+    "logo": "S",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.267Z",
+    "updatedAt": "2026-03-17T15:01:39.717Z",
+    "_tier": {
+      "label": "OBSCURED",
+      "color": "#555555",
+      "bg": "rgba(85,85,85,0.08)"
+    },
+    "_topHolderPct": 60,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 0,
+      "avgTxPerDay": 1000,
+      "cpiDepthAvg": 3.52,
+      "uniquePrograms": 249,
+      "hasNightGap": false,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 14,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 0 days",
+        "Autonomous 24/7 activity pattern detected",
+        "Avg CPI depth: 3.5",
+        "Unique programs interacted: 249"
+      ],
+      "strategyVariance": 3
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "kyegomez/swarms",
+      "stars": 5903,
+      "forks": 756,
+      "contributors": 30,
+      "lastCommitDays": 0,
+      "repoAgeDays": 1041,
+      "weeklyCommits": 9,
+      "hasDescription": true,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 14,
+      "details": [
+        "GitHub: kyegomez/swarms (5903 ★)",
+        "30 contributor(s), repo age 1041 days",
+        "Last commit 0 day(s) ago",
+        "Avg 9 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-AukyjhMS-1773759692319",
+    "name": "Doom Neuron",
+    "ticker": "$Doom",
+    "address": "Auky...pump",
+    "fullAddress": "AukyjhMSmN5VEGjQ9npeu6Eu9X21feL1qCbZSPeJpump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "D",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.268Z",
+    "updatedAt": "2026-03-17T15:01:42.428Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-8a3sEw2k-1773759692320",
+    "name": "Syra Agent",
+    "ticker": "$SYRA",
+    "address": "8a3s...pump",
+    "fullAddress": "8a3sEw2kizHxVnT9oLEVLADx8fTMPkjbEGSraqNWpump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "S",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.269Z",
+    "updatedAt": "2026-03-17T15:01:40.204Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-41uTF77Z-1773759692321",
+    "name": "AI Agent",
+    "ticker": "$AI Agent",
+    "address": "41uT...PeGN",
+    "fullAddress": "41uTF77ZmRZMkd5q94wryW1ax7CKM1CrccNnbEKSPeGN",
+    "verified": false,
+    "score": 42,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 349
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "microsoft/ai-agents-for-beginners",
+      "stars": 54252
+    },
+    "checks": {
+      "onchain": "partial",
+      "codeAudit": false,
+      "socialProof": true,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2026-03-17",
+    "mcap": "—",
+    "volume24h": "$28.4K",
+    "logo": "A",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.270Z",
+    "updatedAt": "2026-03-17T15:01:39.831Z",
+    "_tier": {
+      "label": "OBSCURED",
+      "color": "#555555",
+      "bg": "rgba(85,85,85,0.08)"
+    },
+    "_topHolderPct": 100,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 0,
+      "avgTxPerDay": 1000,
+      "cpiDepthAvg": 12.6,
+      "uniquePrograms": 349,
+      "hasNightGap": false,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 13,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 0 days",
+        "Autonomous 24/7 activity pattern detected",
+        "Avg CPI depth: 12.6",
+        "Unique programs interacted: 349"
+      ],
+      "strategyVariance": 1
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "microsoft/ai-agents-for-beginners",
+      "stars": 54252,
+      "forks": 18791,
+      "contributors": 30,
+      "lastCommitDays": 0,
+      "repoAgeDays": 474,
+      "weeklyCommits": 18,
+      "hasDescription": true,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 15,
+      "details": [
+        "GitHub: microsoft/ai-agents-for-beginners (54252 ★)",
+        "30 contributor(s), repo age 474 days",
+        "Last commit 0 day(s) ago",
+        "Avg 18 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-4HBQm2Eh-1773759692322",
+    "name": "Cat Terminal",
+    "ticker": "$CAT",
+    "address": "4HBQ...pump",
+    "fullAddress": "4HBQm2EhdpUWZkTYxttxNDnsoWi5beRAGWHpjVo8pump",
+    "verified": false,
+    "score": 35,
+    "category": "AI Agent",
+    "description": "Open Source framework for voice and multimodal conversational AI.",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 114
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "patak-cat/vite-plugin-terminal",
+      "stars": 325
+    },
+    "checks": {
+      "onchain": "partial",
+      "codeAudit": false,
+      "socialProof": "partial",
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2026-01-10",
+    "mcap": "$4.43M",
+    "volume24h": "$41.5K",
+    "logo": "C",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.272Z",
+    "updatedAt": "2026-03-17T15:01:41.645Z",
+    "_tier": {
+      "label": "OBSCURED",
+      "color": "#555555",
+      "bg": "rgba(85,85,85,0.08)"
+    },
+    "_topHolderPct": 43,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 0,
+      "avgTxPerDay": 1000,
+      "cpiDepthAvg": 3.3,
+      "uniquePrograms": 114,
+      "hasNightGap": false,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 13,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 0 days",
+        "Autonomous 24/7 activity pattern detected",
+        "Avg CPI depth: 3.3",
+        "Unique programs interacted: 114"
+      ],
+      "strategyVariance": 2
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "patak-cat/vite-plugin-terminal",
+      "stars": 325,
+      "forks": 18,
+      "contributors": 12,
+      "lastCommitDays": 54,
+      "repoAgeDays": 1517,
+      "weeklyCommits": 0,
+      "hasDescription": true,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 10,
+      "details": [
+        "GitHub: patak-cat/vite-plugin-terminal (325 ★)",
+        "12 contributor(s), repo age 1517 days",
+        "Last commit 54 day(s) ago",
+        "Avg 0 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-DuMbhu7m-1773759692323",
+    "name": "elizaOS",
+    "ticker": "$elizaOS",
+    "address": "DuMb...LiZA",
+    "fullAddress": "DuMbhu7mvQvqQHGcnikDgb4XegXJRyhUBfdU22uELiZA",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "E",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.273Z",
+    "updatedAt": "2026-03-17T15:01:42.890Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-32Bea1jm-1773759692324",
+    "name": "BridgeMind",
+    "ticker": "$BRIDGE",
+    "address": "32Be...BAGS",
+    "fullAddress": "32Bea1jmNj2669zP3JEzqoP6JgZH7cLYhmnQ5cNrBAGS",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "B",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.274Z",
+    "updatedAt": "2026-03-17T15:01:42.707Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-Ckit5s1C-1773759692325",
+    "name": "XONA AGENT",
+    "ticker": "$XONA",
+    "address": "Ckit...pump",
+    "fullAddress": "Ckit5s1Cpc3RdMh1HrhfW2nAy4PnkkgjXgXMeykbpump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "X",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.275Z",
+    "updatedAt": "2026-03-17T15:01:42.928Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-5EyGMW1w-1773759692326",
+    "name": "Gh0st Neural Network",
+    "ticker": "$GNN",
+    "address": "5EyG...Hdev",
+    "fullAddress": "5EyGMW1wNxMj7YtVP54uBH6ktwpTNCvX9DDEnmcsHdev",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "G",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.276Z",
+    "updatedAt": "2026-03-17T15:01:42.965Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-2eTJqpK4-1773759692327",
+    "name": "mindshare",
+    "ticker": "$mindshare",
+    "address": "2eTJ...pump",
+    "fullAddress": "2eTJqpK4QqWofGLSoirWNdC3Goyxp81KC3JDMqcupump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "M",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.277Z",
+    "updatedAt": "2026-03-17T15:01:43.054Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-5Pf144rN-1773759692328",
+    "name": "Solana Swap",
+    "ticker": "$AI",
+    "address": "5Pf1...QaDk",
+    "fullAddress": "5Pf144rNWuDkDwQgJeRt4kJ4RYjvdAGFkrDPvPvJQaDk",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "S",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.278Z",
+    "updatedAt": "2026-03-17T15:01:45.609Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-mysticrS-1773759692329",
+    "name": "MysticDAO",
+    "ticker": "$MYSTIC",
+    "address": "myst...QZSN",
+    "fullAddress": "mysticrSzUfD2pz4RayXF5oEHGfNNAFsSY3z5hTQZSN",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "M",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.280Z",
+    "updatedAt": "2026-03-17T15:01:45.919Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-9DHe3pyc-1773759692330",
+    "name": "Hive AI",
+    "ticker": "$BUZZ",
+    "address": "9DHe...pump",
+    "fullAddress": "9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "H",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.281Z",
+    "updatedAt": "2026-03-17T15:01:45.374Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-APbVLtq6-1773759692331",
+    "name": "SwarmNode.ai",
+    "ticker": "$SNAI",
+    "address": "APbV...pump",
+    "fullAddress": "APbVLtq66bKBpUUdncHtVSab9TM1UrcqZ9wodXzmpump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "S",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.282Z",
+    "updatedAt": "2026-03-17T15:01:48.817Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-tWKHzXd5-1773759692332",
+    "name": "AGI ALPHA AGENT",
+    "ticker": "$AGIALPHA",
+    "address": "tWKH...pump",
+    "fullAddress": "tWKHzXd5PRmxTF5cMfJkm2Ua3TcjwNNoSRUqx6Apump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "A",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.283Z",
+    "updatedAt": "2026-03-17T15:01:48.624Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-9A2jUbgo-1773759692333",
+    "name": "DeepSeek AI Agent",
+    "ticker": "$DeepSeekAI",
+    "address": "9A2j...wn9Y",
+    "fullAddress": "9A2jUbgoDY97fruKHXvDd7eQiq4xvnW3By1BfH1Bwn9Y",
+    "verified": false,
+    "score": 30,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "14d active",
+      "contractCalls": 0,
+      "uniqueInteractions": 591
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "smithakolan/DeepSeek-R1-AI-Voice-Agent",
+      "stars": 61
+    },
+    "checks": {
+      "onchain": true,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2025-01-05",
+    "mcap": "$225.1K",
+    "volume24h": "$497.73",
+    "logo": "D",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.284Z",
+    "updatedAt": "2026-03-17T15:01:46.372Z",
+    "_tier": {
+      "label": "OBSCURED",
+      "color": "#555555",
+      "bg": "rgba(85,85,85,0.08)"
+    },
+    "_topHolderPct": 30,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 14,
+      "avgTxPerDay": 71,
+      "cpiDepthAvg": 5.42,
+      "uniquePrograms": 591,
+      "hasNightGap": false,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 15,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 14 days",
+        "Autonomous 24/7 activity pattern detected",
+        "Avg CPI depth: 5.4",
+        "Unique programs interacted: 591"
+      ],
+      "strategyVariance": 4
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "smithakolan/DeepSeek-R1-AI-Voice-Agent",
+      "stars": 61,
+      "forks": 33,
+      "contributors": 1,
+      "lastCommitDays": 396,
+      "repoAgeDays": 398,
+      "weeklyCommits": 0,
+      "hasDescription": false,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 5,
+      "details": [
+        "GitHub: smithakolan/DeepSeek-R1-AI-Voice-Agent (61 ★)",
+        "1 contributor(s), repo age 398 days",
+        "Last commit 396 day(s) ago",
+        "Avg 0 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-83Bqxhwr-1773759692334",
+    "name": "Solana Swap",
+    "ticker": "$AI",
+    "address": "83Bq...QWk3",
+    "fullAddress": "83Bqxhwrd9wMU5Ekqf1bn1Dj1Js8d836Ggr6cwNcQWk3",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "S",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.285Z",
+    "updatedAt": "2026-03-17T15:01:47.553Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-GLBTuw8D-1773759692335",
+    "name": "Agent Relay Protocol",
+    "ticker": "$00",
+    "address": "GLBT...AjMz",
+    "fullAddress": "GLBTuw8DJCKrH1D4duMZiVUwLMXqaEGi18uF5uiZAjMz",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "A",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.286Z",
+    "updatedAt": "2026-03-17T15:01:50.967Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-FdrrYtew-1773759692336",
+    "name": "Tokenized Agent",
+    "ticker": "$AGENT",
+    "address": "Fdrr...pump",
+    "fullAddress": "FdrrYtewKsiueA1qXhbLVQMVV6ohYeQnU2WTUWc8pump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "T",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.286Z",
+    "updatedAt": "2026-03-17T15:01:51.681Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-DpQSHmXg-1773759692337",
+    "name": "Benjamin the Crypto Agent",
+    "ticker": "$Benjamin",
+    "address": "DpQS...pump",
+    "fullAddress": "DpQSHmXgoofPNAUdp46Z21pLX8gfviavSgQQ7wZ8pump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "B",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.288Z",
+    "updatedAt": "2026-03-17T15:01:51.067Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-wUtwjNmj-1773759692338",
+    "name": "ai16zeliza",
+    "ticker": "$eliza",
+    "address": "wUtw...yr2o",
+    "fullAddress": "wUtwjNmjCP9TTTtoc5Xn5h5sZ2cYJm5w2w44b79yr2o",
+    "verified": false,
+    "score": 26,
+    "category": "AI Agent",
+    "description": "Eliza made on Eliza. Powered by @vvaifudotfun\r\n\r\n\r\nMade with vvaifu.fun \r\nCreate AI Agents with tokens.",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "50d active",
+      "contractCalls": 0,
+      "uniqueInteractions": 446
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "x402onchain/ai16zeliza",
+      "stars": 0
+    },
+    "checks": {
+      "onchain": "partial",
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2024-11-16",
+    "mcap": "$101.5K",
+    "volume24h": "$895.46",
+    "logo": "A",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.289Z",
+    "updatedAt": "2026-03-17T15:01:48.914Z",
+    "_tier": {
+      "label": "VOID",
+      "color": "#DC2626",
+      "bg": "rgba(220,38,38,0.08)"
+    },
+    "_topHolderPct": 70,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 50,
+      "avgTxPerDay": 20,
+      "cpiDepthAvg": 5.96,
+      "uniquePrograms": 446,
+      "hasNightGap": true,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 13,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 50 days",
+        "Human-like pattern detected (max gap: 14.8h)",
+        "Avg CPI depth: 6.0",
+        "Unique programs interacted: 446"
+      ],
+      "strategyVariance": 4
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "x402onchain/ai16zeliza",
+      "stars": 0,
+      "forks": 0,
+      "contributors": 1,
+      "lastCommitDays": 72,
+      "repoAgeDays": 72,
+      "weeklyCommits": 0,
+      "hasDescription": true,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 4,
+      "details": [
+        "GitHub: x402onchain/ai16zeliza (0 ★)",
+        "1 contributor(s), repo age 72 days",
+        "Last commit 72 day(s) ago",
+        "Avg 0 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-2jvsWRkT-1773759692339",
+    "name": "AIR3 Agent by AIRewardrop",
+    "ticker": "$AIR3",
+    "address": "2jvs...moon",
+    "fullAddress": "2jvsWRkT17ofmv9pkW7ofqAFWSCNyJYdykJ7kPKbmoon",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "A",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.290Z",
+    "updatedAt": "2026-03-17T15:01:51.702Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-Hjw6bEcH-1773759692340",
+    "name": "SwarmNode.ai",
+    "ticker": "$SNAI",
+    "address": "Hjw6...pump",
+    "fullAddress": "Hjw6bEcHtbHGpQr8onG3izfJY5DJiWdt7uk2BfdSpump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "S",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.291Z",
+    "updatedAt": "2026-03-17T15:01:54.756Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-AXyd5cZq-1773759692341",
+    "name": "MindCoin",
+    "ticker": "$MIND",
+    "address": "AXyd...1rCg",
+    "fullAddress": "AXyd5cZqJDYRoN16xcv8s6k41M2kJMfKJnQiXeMd1rCg",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "M",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.292Z",
+    "updatedAt": "2026-03-17T15:01:54.079Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-GoATEDLw-1773759692342",
+    "name": "GOATED",
+    "ticker": "$GOATED",
+    "address": "GoAT...WGvH",
+    "fullAddress": "GoATEDLwYeDQXyzcFxAgeiQd5Amu4mewU4KmbjvUWGvH",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "G",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.293Z",
+    "updatedAt": "2026-03-17T15:01:54.232Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-BkprZMuB-1773759692343",
+    "name": "AgentBank x402 Protocol",
+    "ticker": "$AgentBank",
+    "address": "Bkpr...pump",
+    "fullAddress": "BkprZMuBFxWNFz9zhj7qSxZvRndnVKkq5pPQ5sqcpump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "A",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.294Z",
+    "updatedAt": "2026-03-17T15:01:57.868Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-5voS9evD-1773759692344",
+    "name": "Eliza",
+    "ticker": "$ELIZA",
+    "address": "5voS...uRqM",
+    "fullAddress": "5voS9evDjxF589WuEub5i4ti7FWQmZCsAsyD5ucbuRqM",
+    "verified": false,
+    "score": 41,
+    "category": "AI Agent",
+    "description": "Eliza is free. An open source, CC0 character for the AI cinematic universe.",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "21d active",
+      "contractCalls": 0,
+      "uniqueInteractions": 494
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "elizaOS/eliza",
+      "stars": 17822
+    },
+    "checks": {
+      "onchain": "partial",
+      "codeAudit": false,
+      "socialProof": true,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2024-11-19",
+    "mcap": "$244.3K",
+    "volume24h": "$61.76",
+    "logo": "E",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.295Z",
+    "updatedAt": "2026-03-17T15:01:54.944Z",
+    "_tier": {
+      "label": "OBSCURED",
+      "color": "#555555",
+      "bg": "rgba(85,85,85,0.08)"
+    },
+    "_topHolderPct": 47,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 21,
+      "avgTxPerDay": 48,
+      "cpiDepthAvg": 6,
+      "uniquePrograms": 494,
+      "hasNightGap": true,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 12,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 21 days",
+        "Human-like pattern detected (max gap: 11.3h)",
+        "Avg CPI depth: 6.0",
+        "Unique programs interacted: 494"
+      ],
+      "strategyVariance": 5
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "elizaOS/eliza",
+      "stars": 17822,
+      "forks": 5452,
+      "contributors": 30,
+      "lastCommitDays": 0,
+      "repoAgeDays": 616,
+      "weeklyCommits": 35,
+      "hasDescription": true,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 15,
+      "details": [
+        "GitHub: elizaOS/eliza (17822 ★)",
+        "30 contributor(s), repo age 616 days",
+        "Last commit 0 day(s) ago",
+        "Avg 35 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-7h5AzpYT-1773759692345",
+    "name": "griffain new hedge fund",
+    "ticker": "$Citadail",
+    "address": "7h5A...udvJ",
+    "fullAddress": "7h5AzpYTAnh4Gyux8Gqko5Fvx4AYQBZdkzHZ2CsBudvJ",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "G",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.296Z",
+    "updatedAt": "2026-03-17T15:01:54.949Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-Ag5mMdBS-1773759692346",
+    "name": "Agents AI",
+    "ticker": "$AGENT",
+    "address": "Ag5m...ey9w",
+    "fullAddress": "Ag5mMdBSxm8J893RazD9PGkxWKJ5o3UKdWW4ZmJAey9w",
+    "verified": false,
+    "score": 44,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 1000,
+      "lastTx": "110d active",
+      "contractCalls": 0,
+      "uniqueInteractions": 397
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": "microsoft/ai-agents-for-beginners",
+      "stars": 54169
+    },
+    "checks": {
+      "onchain": true,
+      "codeAudit": false,
+      "socialProof": true,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "2024-11-19",
+    "mcap": "$87.3K",
+    "volume24h": "$18.82",
+    "logo": "A",
+    "_status": "complete",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.297Z",
+    "updatedAt": "2026-03-17T15:01:54.934Z",
+    "_tier": {
+      "label": "OBSCURED",
+      "color": "#555555",
+      "bg": "rgba(85,85,85,0.08)"
+    },
+    "_topHolderPct": 61,
+    "_onchainEvidence": {
+      "txCount": 1000,
+      "accountAgeDays": 110,
+      "avgTxPerDay": 9,
+      "cpiDepthAvg": 5.3,
+      "uniquePrograms": 397,
+      "hasNightGap": true,
+      "isExecutable": false,
+      "upgradeAuthority": null,
+      "score": 14,
+      "details": [
+        "1,000 transactions found",
+        "Account active for 110 days",
+        "Human-like pattern detected (max gap: 28.9h)",
+        "Avg CPI depth: 5.3",
+        "Unique programs interacted: 397"
+      ],
+      "strategyVariance": 5
+    },
+    "_socialEvidence": {
+      "githubFound": true,
+      "repoName": "microsoft/ai-agents-for-beginners",
+      "stars": 54169,
+      "forks": 18773,
+      "contributors": 30,
+      "lastCommitDays": 2,
+      "repoAgeDays": 474,
+      "weeklyCommits": 18,
+      "hasDescription": true,
+      "isPrivate": false,
+      "twitterHandle": null,
+      "score": 15,
+      "details": [
+        "GitHub: microsoft/ai-agents-for-beginners (54169 ★)",
+        "30 contributor(s), repo age 474 days",
+        "Last commit 2 day(s) ago",
+        "Avg 18 commits/week (last 12 weeks)"
+      ]
+    }
+  },
+  {
+    "id": "live-BoBj68cW-1773759692347",
+    "name": "Terminal of Tate",
+    "ticker": "$TateAI",
+    "address": "BoBj...pump",
+    "fullAddress": "BoBj68cWnCvzMNUKzJyR7Jq7tLM3v76D1pYL1E8rpump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "T",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.297Z",
+    "updatedAt": "2026-03-17T15:02:00.346Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-LX2mJPsu-1773759692348",
+    "name": "Tate Terminal",
+    "ticker": "$Tate",
+    "address": "LX2m...pump",
+    "fullAddress": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "T",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.298Z",
+    "updatedAt": "2026-03-17T15:02:00.117Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-8TC4ZJA5-1773759692349",
+    "name": "AGENTLAUNCHER Token",
+    "ticker": "$CVAI",
+    "address": "8TC4...pNno",
+    "fullAddress": "8TC4ZJA5cwB5gmLemBfPP95v1Mft82kHGF9a87kepNno",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "A",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.300Z",
+    "updatedAt": "2026-03-17T15:02:01.433Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-kMHcKbw2-1773759692297",
+    "name": "Agent Relay Protocol",
+    "ticker": "$ARP",
+    "address": "kMHc...pump",
+    "fullAddress": "kMHcKbw2VwerLf59DXQ2e9mCwx16VcD2mxF6XaFpump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "A",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.258Z",
+    "submittedAt": "2026-03-17T15:01:32.301Z",
+    "updatedAt": "2026-03-17T15:02:00.770Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-BHaryYEy-1773759692351",
+    "name": "NeuralMesh",
+    "ticker": "$MESH",
+    "address": "BHar...QsUn",
+    "fullAddress": "BHaryYEyiAfhVTSEV5Dp6HZWWXqnokA9uCR7xbMEQsUn",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "N",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.302Z",
+    "updatedAt": "2026-03-17T15:02:03.760Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-5ct1DJ9Z-1773759692352",
+    "name": "MindGTC",
+    "ticker": "$MGTC",
+    "address": "5ct1...XZLZ",
+    "fullAddress": "5ct1DJ9ZC5poucKumekjLyTRE21t6FS2hfXNYSqjXZLZ",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "M",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.302Z",
+    "updatedAt": "2026-03-17T15:02:04.915Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-Gp8GVGPc-1773759692353",
+    "name": "Keke Terminal",
+    "ticker": "$KEKE",
+    "address": "Gp8G...pump",
+    "fullAddress": "Gp8GVGPc8QCe4Jn6ryG5YKokG5bjKycATEzqpeyspump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "K",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.303Z",
+    "updatedAt": "2026-03-17T15:02:05.188Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-2mcnL7BA-1773759692354",
+    "name": " first sentient cryptocurrency",
+    "ticker": "$Aria_AI",
+    "address": "2mcn...pump",
+    "fullAddress": "2mcnL7BANAgyH1fQWiSybx58dCPyBsY44Eh7X9Mvpump",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": " ",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.304Z",
+    "updatedAt": "2026-03-17T15:02:05.226Z",
+    "_error": "githubSlug is not defined"
+  },
+  {
+    "id": "live-DDij7Dp8-1773759692355",
+    "name": "Truth Terminal's Crush",
+    "ticker": "$RURI",
+    "address": "DDij...MQtr",
+    "fullAddress": "DDij7Dp8updt3XSCzeHCaAoDoFTSE5Y27i2EQ9qjMQtr",
+    "verified": "pending",
+    "score": 0,
+    "category": "AI Agent",
+    "description": "Live scan in progress — fetching on-chain data...",
+    "chain_activity": {
+      "txCount": 0,
+      "lastTx": "—",
+      "contractCalls": 0,
+      "uniqueInteractions": 0
+    },
+    "code_verified": false,
+    "social": {
+      "twitter": null,
+      "followers": "—",
+      "github": null,
+      "stars": 0
+    },
+    "checks": {
+      "onchain": false,
+      "codeAudit": false,
+      "socialProof": false,
+      "aiInference": false,
+      "governance": false
+    },
+    "launchDate": "—",
+    "mcap": "—",
+    "volume24h": "—",
+    "logo": "T",
+    "_status": "error",
+    "_discoveredAt": "2026-03-17T15:01:32.311Z",
+    "submittedAt": "2026-03-17T15:01:32.305Z",
+    "updatedAt": "2026-03-17T15:02:08.028Z",
+    "_error": "githubSlug is not defined"
+  }
+]
