@@ -398,6 +398,40 @@ export default function DashboardPage() {
           Grimwatch peers into the darkness of Solana. The grim watchers verify AI agents — sealing the worthy, casting fakes into the void.
         </p>
 
+        {/* Token CA Banner */}
+        <div
+          style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: '10px',
+            background: 'rgba(212,168,67,0.06)',
+            border: '1px solid rgba(212,168,67,0.2)',
+            borderRadius: '2px',
+            padding: '10px 20px',
+            marginBottom: '20px',
+            flexWrap: 'wrap',
+            justifyContent: 'center',
+          }}
+        >
+          <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: '9px', letterSpacing: '0.12em', color: 'rgba(212,168,67,0.6)' }}>
+            $GRIM TOKEN
+          </span>
+          <span
+            style={{
+              fontFamily: "'IBM Plex Mono', monospace",
+              fontSize: '11px',
+              letterSpacing: '0.06em',
+              color: '#D4A843',
+              background: 'rgba(212,168,67,0.08)',
+              padding: '3px 10px',
+              borderRadius: '2px',
+              border: '1px solid rgba(212,168,67,0.15)',
+            }}
+          >
+            LAUNCHING SOON — CA WILL BE POSTED HERE
+          </span>
+        </div>
+
         <div style={{ display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap' }}>
           <Link
             href="/agents"
@@ -613,6 +647,35 @@ export default function DashboardPage() {
             }}
           >
             𝕏 @GrimwatchHQ
+          </a>
+          <a
+            href="https://github.com/shipyard0x/Grimwatch"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              fontFamily: "'IBM Plex Mono', monospace",
+              fontSize: '10px',
+              color: 'rgba(212,208,200,0.35)',
+              textDecoration: 'none',
+              letterSpacing: '0.06em',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '5px',
+              border: '1px solid rgba(255,255,255,0.07)',
+              padding: '4px 10px',
+              borderRadius: '2px',
+              transition: 'all 0.15s',
+            }}
+            onMouseEnter={(e) => {
+              e.currentTarget.style.color = '#D4D0C8';
+              e.currentTarget.style.borderColor = 'rgba(255,255,255,0.15)';
+            }}
+            onMouseLeave={(e) => {
+              e.currentTarget.style.color = 'rgba(212,208,200,0.35)';
+              e.currentTarget.style.borderColor = 'rgba(255,255,255,0.07)';
+            }}
+          >
+            ⌥ OPEN SOURCE
           </a>
         </div>
       </div>
