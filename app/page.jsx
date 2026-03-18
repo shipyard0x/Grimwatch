@@ -675,7 +675,7 @@ export default function DashboardPage() {
               e.currentTarget.style.borderColor = 'rgba(255,255,255,0.07)';
             }}
           >
-            ⌥ OPEN SOURCE
+            ⌥ GITHUB
           </a>
         </div>
       </div>
