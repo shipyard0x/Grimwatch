@@ -111,6 +111,28 @@ export default function Header() {
 
       {/* Right side: X link + wallet + vigil */}
       <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+        {/* CA banner */}
+        <div
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: '8px',
+            border: '1px solid rgba(74,222,128,0.12)',
+            borderRadius: '2px',
+            padding: '4px 10px',
+            background: 'rgba(74,222,128,0.03)',
+          }}
+        >
+          <span style={{ fontFamily: "'Cinzel', serif", fontSize: '8px', letterSpacing: '0.12em', color: 'rgba(212,208,200,0.35)', fontWeight: 600 }}>CA</span>
+          <span
+            style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: '9px', color: '#4ADE80', letterSpacing: '0.04em', cursor: 'pointer' }}
+            title="Click to copy"
+            onClick={() => navigator.clipboard.writeText('8EYCdsWNTBrbC6tMiGceEdCMyp9AUHesqyv1HF51pump')}
+          >
+            8EYCds...pump
+          </span>
+        </div>
+
         {/* X / Twitter link */}
         <a
           href="https://x.com/GrimwatchHQ"
@@ -142,6 +164,39 @@ export default function Header() {
           title="@GrimwatchHQ on X"
         >
           𝕏
+        </a>
+
+        {/* GitHub link */}
+        <a
+          href="https://github.com/shipyard0x/Grimwatch"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: '6px',
+            fontFamily: "'Cinzel', serif",
+            fontSize: '9px',
+            fontWeight: 600,
+            letterSpacing: '0.12em',
+            padding: '5px 12px',
+            borderRadius: '2px',
+            border: '1px solid rgba(74,222,128,0.1)',
+            background: 'transparent',
+            color: 'rgba(212,208,200,0.4)',
+            textDecoration: 'none',
+            transition: 'all 0.15s',
+          }}
+          onMouseEnter={(e) => {
+            e.currentTarget.style.borderColor = 'rgba(74,222,128,0.3)';
+            e.currentTarget.style.color = '#4ADE80';
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.borderColor = 'rgba(74,222,128,0.1)';
+            e.currentTarget.style.color = 'rgba(212,208,200,0.4)';
+          }}
+        >
+          ⌥ GITHUB
         </a>
 
         {/* Wallet connect button */}
